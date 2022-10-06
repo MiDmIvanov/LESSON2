@@ -16,7 +16,6 @@ else
 */
 
 //task2
-/*
 Console.WriteLine("Введите число от 100 до 2 147 483 647:");
 int a = int.Parse(Console.ReadLine());
 int i = 100;
@@ -40,10 +39,10 @@ else
 {
    Console.WriteLine($"Третьей цифры нет");
 }
-*/
+
 
 //task3
-Console.WriteLine($"Введите число от 1 до 7:");
+/*Console.WriteLine($"Введите число от 1 до 7:");
 int a = int.Parse(Console.ReadLine());
 if (a>0&a<8)
 {
@@ -53,4 +52,4 @@ if (a>0&a<8)
     {Console.WriteLine($"Это будний день");}
 }
 else
-{Console.WriteLine($"Введено некорректное число");}
+{Console.WriteLine($"Введено некорректное число");}*/
