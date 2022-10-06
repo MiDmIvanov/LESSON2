@@ -1,5 +1,4 @@
 ﻿// task1
-/*
 Console.WriteLine("Введите трехзначное число:");
 int a = int.Parse(Console.ReadLine());
 if (a/100>0&a/100<10)
@@ -13,7 +12,7 @@ else
 {
    Console.WriteLine($"Число должно быть трехзначным");
 }
-*/
+/*
 
 //task2
 Console.WriteLine("Введите число от 100 до 2 147 483 647:");
